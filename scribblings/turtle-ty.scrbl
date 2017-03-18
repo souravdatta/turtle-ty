@@ -15,15 +15,10 @@ To initiate turtles call the `turtles-on` function. This is a wrapper on `turtle
 
 @section{Drawing functions}
 
-@bold[fd] forward by given length
-@bold[bk] backward by given length
-@bold[right] turn right by given angle
-@bold[left] turn left by given angle
-@bold[arc-left] and @bold[arc-right] draws arcs in respective directions for a given angle and radius
-@bold[pu] penup for fd, bk and arc functions. Example
-@racketblock[
-    (fd 100)
-    (right 45)
-    (pu (fd 100))
-]
+fd forward by given length
+bk backward by given length
+right turn right by given angle
+left turn left by given angle
+arc-left and @bold[arc-right] draws arcs in respective directions for a given angle and radius
+pu penup for fd, bk and arc functions. Example
 
