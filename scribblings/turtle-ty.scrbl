@@ -19,6 +19,6 @@ fd forward by given length
 bk backward by given length
 right turn right by given angle
 left turn left by given angle
-arc-left and @bold[arc-right] draws arcs in respective directions for a given angle and radius
+arc-left and arc-right draws arcs in respective directions for a given angle and radius
 pu penup for fd, bk and arc functions. Example
 
