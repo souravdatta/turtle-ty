@@ -1,6 +1,6 @@
 #lang typed/racket
 
-(require "turtle-extras.rkt")
+(require turtle-ty)
 
 (turtles-on)
 
